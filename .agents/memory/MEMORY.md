@@ -1,0 +1,3 @@
+- [Mobile Safari image/section blanking](mobile-safari-image-blanking.md) — sections that start opacity-0 + IntersectionObserver can never reveal on tall mobile; use threshold:0 + rootMargin + timeout fallback.
+- [Newsletter reuses contact endpoint](newsletter-reuses-contact-endpoint.md) — newsletter signup POSTs to /api/contact with inquiryType "Newsletter Signup"; no separate backend by design.
+- [Managed AI proxy](managed-ai-proxy.md) — the website assistant uses Replit-managed OpenAI credentials exclusively; do not introduce a founder-provided API-key fallback.

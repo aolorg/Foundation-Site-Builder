@@ -1,0 +1,217 @@
+uploads = []
+
+[[generated]]
+id = "-XnA3TAwTh4W8pAmo88fa"
+uri = "file://attached_assets/generated_images/photorealistic_high_resolution_product_8f98.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "w7h0ZddDTuIO7t_uo5MKf"
+uri = "file://attached_assets/generated_images/photorealistic_high_resolution_product_02b9.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "u8C_ZFyNiYpEpdALUTcTZ"
+uri = "file://attached_assets/generated_images/photorealistic_high_resolution_product_10e9.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "LqTH-HCW685d5YDnO2p0U"
+uri = "file://attached_assets/generated_images/photorealistic_high_resolution_product_f6fe.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "Hpr1scOu5Yyuo44j02rrR"
+uri = "file://attached_assets/generated_images/photorealistic_high_resolution_product_5eb3.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "XnEErVtHCe5D8K84CnO6o"
+uri = "file://attached_assets/generated_images/photorealistic_product_mockup_of_ed32.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "YNR6mySEE16wDihmw4TdE"
+uri = "file://attached_assets/generated_images/photorealistic_product_mockup_of_83fc.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "u_7xS40o-tyLtF87WhWyr"
+uri = "file://attached_assets/generated_images/photorealistic_product_mockup_of_6d2d.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "MjXnNWrguvgDjnjoc65Q9"
+uri = "file://attached_assets/generated_images/photorealistic_product_mockup_of_81f8.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "hSBqgOVeRwh86jZO6OQGX"
+uri = "file://attached_assets/generated_images/photorealistic_product_mockup_of_1295.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "GTBXCkPqEN7NKYfOFV7Ir"
+uri = "file://attached_assets/generated_images/photorealistic_product_mockup_of_863b.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "3JUfy_A892GPa62tL5Bkl"
+uri = "file://attached_assets/generated_images/photorealistic_product_mockup_of_6e37.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "BMnwjsfThOvvlQNQDVUtX"
+uri = "file://attached_assets/generated_images/photorealistic_close_up_product_80cc.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "8PSdDucpj0yYJbFy48qSH"
+uri = "file://attached_assets/generated_images/laurel-emblem.png"
+type = "image"
+title = "laurel crest emblem"
+
+[[outputs]]
+id = "SvURoW0yH7thJbx3Ae-qs"
+uri = "file://attached_assets/generated_images/photorealistic_product_mockup_of_ed32.png"
+type = "image"
+title = "Version A — Clean White Type (Exact)"
+
+[[outputs]]
+id = "23mDiuxEll4NlZlfJulHE"
+uri = "file://attached_assets/generated_images/photorealistic_product_mockup_of_83fc.png"
+type = "image"
+title = "Version B — Gold Embossed Upgrade"
+
+[[outputs]]
+id = "AVbQRl8RduOXySCgBi4GB"
+uri = "file://attached_assets/generated_images/photorealistic_product_mockup_of_6d2d.png"
+type = "image"
+title = "Version C — Luxury Charcoal/Gold"
+
+[[outputs]]
+id = "cNwpe5etberW4S0yxgHIx"
+uri = "file://attached_assets/Arena_of_Life_Merchandise_Images_1781617327200.pdf"
+type = "pdf"
+title = "Your Merchandise Images"
+
+[[outputs]]
+id = "itXR7pbsMlcpJjbz5rx39"
+uri = "file://attached_assets/MITA_Merchandise_Archive_1781617327200.pdf"
+type = "pdf"
+title = "MITA Merchandise Archive"
+
+[[outputs]]
+id = "yrlLOF4DE88f7uSVaZLW3"
+uri = "file://attached_assets/print_designs/classic-tee-front-print-4500px.png"
+type = "image"
+title = "Classic Tee — Colosseum 'Arena of Life' (print-ready 4500px)"
+
+[[outputs]]
+id = "5ulOaSsDCcjJ2U3D7A_-c"
+uri = "file://attached_assets/print_designs/lion-hoodie-front-print-4500px.png"
+type = "image"
+title = "Lion — 'Enter the Arena' (print-ready 4500px)"
+
+[[outputs]]
+id = "MOAahioBvI6avWVGIRNzs"
+uri = "file://attached_assets/print_designs/laurel-crest-print-4500px.png"
+type = "image"
+title = "Laurel Crest emblem (print-ready 4500px)"
+
+[[outputs]]
+id = "amgfahMz_Je_oU6kXEurG"
+uri = "file://attached_assets/print_designs/mita-gold-wreath-flag-print-4500px.png"
+type = "image"
+title = "Tee — Gold Wreath & Flag 'Always On Guard' (print-ready)"
+
+[[outputs]]
+id = "MYZPdupokTHHgH_zFhHRY"
+uri = "file://attached_assets/print_designs/mita-daring-greatly-print-4500px.png"
+type = "image"
+title = "Tee — 'Daring Greatly' (print-ready)"
+
+[[outputs]]
+id = "iFOrz_lUUb-aR2juXkTQq"
+uri = "file://attached_assets/print_designs/mita-white-tee-wreath-print-4500px.png"
+type = "image"
+title = "White Tee — Green Laurel Wreath (print-ready)"
+
+[[outputs]]
+id = "f4c_md6_0kj72pquWmrWd"
+uri = "file://attached_assets/print_designs/mita-navy-circle-flag-print-4500px.png"
+type = "image"
+title = "Navy Tee — Circle Flag Emblem (print-ready)"
+
+[[outputs]]
+id = "Tu5g11AUwoiPoDxuX-eL0"
+uri = "file://attached_assets/print_designs/mita-minimal-gold-print-4500px.png"
+type = "image"
+title = "Green Tee — Minimal Gold Cross (print-ready)"
+
+[[outputs]]
+id = "S7nz0Mo_WIq87adKWNLD5"
+uri = "file://attached_assets/print_designs/mita-back-no-man-alone-print-4500px.png"
+type = "image"
+title = "Back Print — 'No Man Should Stand Alone' (print-ready)"
+
+[[outputs]]
+id = "FV-2shF9MUAloCiBgfXeK"
+uri = "file://attached_assets/print_designs/battle-tested-shield-print-4500px.png"
+type = "image"
+title = "Battle Tested — Shield Emblem (print-ready)"
+
+[[outputs]]
+id = "J2ZxHHKJ5ak3U2QXV0X4_"
+uri = "file://attached_assets/print_designs/battle-tested-back-print-4500px.png"
+type = "image"
+title = "Back Print — 'Pressure Builds Men' (print-ready)"
+
+[[outputs]]
+id = "c67lCWyZWto4T5ivpU2gX"
+uri = "file://attached_assets/print_designs/war-chest-manifest-back-print-4500px.png"
+type = "image"
+title = "Back Print — War Chest Supply Manifest (print-ready)"
+
+[[outputs]]
+id = "TcJNmQOy-pp9xO4M2L2-Y"
+uri = "file://attached_assets/print_designs/og-on-guard-hat-print-4500px.png"
+type = "image"
+title = "Hat Logo — OG 'On Guard' (print-ready)"
+
+[[outputs]]
+id = "gEofS8JN4jg2SuQNgtZpG"
+uri = "file://attached_assets/print_designs/mita-quote-back-print-4500px.png"
+type = "image"
+title = "Man in the Arena Quote — Tee Back Print (4500px, 300 DPI)"
+
+[[outputs]]
+id = "I6vCixmBZa0A9aUW5v3EV"
+uri = "file://attached_assets/print_designs/warrior-hat-front-print-4500px.png"
+type = "image"
+title = "Warrior Hat Embroidery Design (4500px, 300 DPI)"
+
+[[outputs]]
+id = "6S-gQ_xpO_LCcox_pT8Tc"
+uri = "file://attached_assets/print_designs/challenge-coin-front-print-4500px.png"
+type = "image"
+title = "Challenge Coin — Front (4500px, 300 DPI)"
+
+[[outputs]]
+id = "ouATc_s_OWc38EM2WWh3b"
+uri = "file://attached_assets/print_designs/challenge-coin-back-print-4500px.png"
+type = "image"
+title = "Challenge Coin — Back (4500px, 300 DPI)"
